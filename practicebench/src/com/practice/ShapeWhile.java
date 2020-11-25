@@ -9,7 +9,6 @@ public class ShapeWhile {
 			int j=1;
 			while (j <= 4)
 			{
-		
 			 System.out.print("* ");
 			 j++;
 			}
@@ -18,7 +17,6 @@ public class ShapeWhile {
 			 System.out.println();
 			 
 			}
-		
-	}
+			}
 
 }

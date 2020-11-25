@@ -22,6 +22,7 @@ public class TestThrow {
 		
 		 System.out.println(" rest of the program");
 
+		 
 	}
 
 }
