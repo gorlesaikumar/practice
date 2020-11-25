@@ -1,4 +1,4 @@
-package com.practice.git.first;
+package com.practice;
 
 public class GitTest {
 
